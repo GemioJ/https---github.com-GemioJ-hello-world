@@ -12,7 +12,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        String name = "John Smith";
+        String name = "Jeannette";
         String teamM = "";
         System.out.println("Hello, my name is: " + name);
         System.out.println("Hello, my name is: " + teamM); 
